@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@300&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+}
+
+nav{
+    background-color: rgb(64, 131, 194);
+    color:white;
+    height:51px;
+    font-size:27px;
+    display:flex;
+    align-items: center;
+    padding:0 12px;
+    font-family: 'Noto Serif', serif;
+}
+
+nav ul{
+    list-style-type: none;
+}
+
+.gameContainer{
+    background-color: greenyellow;
+    display: flex;
+    justify-content: center;
+    margin-top:50px
+}
